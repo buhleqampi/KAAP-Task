@@ -42,5 +42,8 @@ const seventyTwoHours = timeStamp(72);
 const oneSixtyEightHours = timeStamp(168);
 
 console.log("4 hours later", fourHours);
-console.log("eight hours later",eightHours);
-consol
+console.log("8 hours later",eightHours);
+console.log("24 hours later",eightHours);
+console.log("48 hours later",twentyFourHours);
+console.log("72 hours later",seventyTwoHours);
+console.log("168 hours later",oneSixtyEightHours);
